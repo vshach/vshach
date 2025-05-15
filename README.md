@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Vica and I am a Java developer and a history freak.
-- 🌱 I’m currently learning ... I am not "currently" learning. I am always learning! There are new Java versions and new frameworks and new archeological digs and books I haven't read yet.
+- 🌱 I’m currently learning ... I am not "currently" learning. I am always learning!
 - 😄 ⚡⚡ 😄 
 
 <!---
